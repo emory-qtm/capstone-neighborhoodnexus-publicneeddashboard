@@ -1,0 +1,2 @@
+# capstone-neighborhoodnexus-publicneeddashboard
+Covid-19 is having a considerable impact on the wellbeing of Americans and changed the way many nonprofit organizations operate and deliver services. Similarly, rapid changes in the needs of Americans led to shifting priorities and demand in the nonprofit sector. There is an immediate demand forup-to-date information on public sentiment and areas of need to allow nonprofits to rapidly respond to changes and leverage their resources in a more effective way.
