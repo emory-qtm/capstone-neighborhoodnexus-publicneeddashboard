@@ -9,10 +9,13 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 - [Intended Use](#intended-use)
 - [Installation](#installation)
 - [Setup](#setup)
+- 
       - [Google API Sheet](#google-api-sheet)
       - [Dashboard](#dashboard)
 - [Dashboard](#dashboard)
-- [Thanks](#thanks)
+- 
+      - [Intended Use](#intended-use)
+- [Acknowledgements](#acknowledgements)
 
 
 # Motivation
@@ -49,4 +52,4 @@ To begin, install and ensure that you have the latest version of each
 * United Way 211 - Atlanta 
 * Census - (include specific file name)
 
-# Thanks
+# Acknowledgements
