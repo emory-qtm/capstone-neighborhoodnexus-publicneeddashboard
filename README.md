@@ -20,8 +20,6 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 
 # Motivation
 
-Neighborhood Nexus.
-
 
 # Project Partners
 
@@ -31,6 +29,13 @@ Neighborhood Nexus.
 If you are interested in learning about what people in the U.S. are demanding for or are passionate about helping non-technical audiences keep track of up-to-date information on public sentiments, then this project is right for you! This repo is designed for Python users who want to build an interactive real-time data reporting dashboard on the most popular social issues in the Atlanta metropolitan area, such as housing, healthcare, and employment. 
 
 # Intended Use
+
+This Github repository allows users to easily extract qualitative data on socioeconomic topics and build a real-time interactive dashboard upon it. A typical user of this Github repository should be interested in using data from non-profit organizations, Census Bureau, and Google queries, as these three data sources represent an integral image of diverse American needs. Our dashboard acts as a one-stop platform for users to access these three data sources, to visualize the popular social issues today, and to understand the rising demands in the nonprofit sector.  
+
+## Data sources:
+
+### United Way AIRS data:
+Because our stakeholder, Neighborhood Nexus, is partnering with United Way Worldwide, a non-profit organization that has over 1,800 affiliates globally, our team obtained monthly data from AIRS (Alliance of Information and Referral Systems) that informs us on the Problem Needs and Referred and Unmet Services. This data is used to reflect the real-time requests from people in Georgia on our dashboard. 
 
 
 # Installation 
