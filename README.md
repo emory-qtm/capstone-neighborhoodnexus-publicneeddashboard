@@ -43,8 +43,8 @@ Because Google Trends data is comprehensive, publicly available, updated frequen
 ### 3. Census Bureau data (https://www.airs.org/i4a/pages/index.cfm?pageid=1): 
 The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019, from Census Bureaus, was used to reflect recent demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can rely on this data source to visualize popular social issues within different ethnic groups in different counties. 
 
-## Dashboard (https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886):
-Our real-time interactive dashboard allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the “Dashboard” section. 
+## Dashboard:
+Our real-time interactive dashboard (https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886) allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the “Dashboard” section. 
 
 With the use of our data sources and dashboard, users will be informed on the real-time, historical, geographic, and demographic trends of 17 important topics in the nonprofit sector
 
