@@ -37,14 +37,16 @@ This Github repository allows users to easily extract qualitative data on socioe
 ### 1. United Way AIRS data:
 Because our stakeholder, Neighborhood Nexus, is partnering with United Way Worldwide, a non-profit organization that has over 1,800 affiliates globally, our team obtained monthly data from AIRS (Alliance of Information and Referral Systems) that informs us on the Problem Needs and Referred and Unmet Services. This data is used to reflect the real-time requests from people in Georgia on our dashboard. 
 
-### 2. Google Trends data:
+### 2. Google Trends data (https://trends.google.com/trends/?geo=US):
 Because Google Trends data is comprehensive, publicly available, updated frequently, our team mainly used this data source to visualize the historical and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our “Data Extraction: Google Trends” file to understand our datasets better.
 
-### 3. Census Bureau data: 
+### 3. Census Bureau data (https://www.airs.org/i4a/pages/index.cfm?pageid=1): 
 The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019, from Census Bureaus, was used to reflect recent demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can rely on this data source to visualize popular social issues within different ethnic groups in different counties. 
 
-## Dashboard:
-Our real-time interactive dashboard allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the “Dashboard” section.
+## Dashboard (https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886):
+Our real-time interactive dashboard allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the “Dashboard” section. 
+
+With the use of our data sources and dashboard, users will be informed on the real-time, historical, geographic, and demographic trends of 17 important topics in the nonprofit sector
 
 
 # Installation 
