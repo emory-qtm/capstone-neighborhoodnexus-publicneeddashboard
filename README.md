@@ -1,4 +1,4 @@
-# Emory QTM Capstone: Neighborhood Nexus - Public Need Dashboard
+# Emory QTM Capstone: Neighborhood Nexus - Public Need Dashboard                                                                       ![Logo](/images/Logo.png)
 
 ## Table of contents
 - [Motivation](#motivation)
