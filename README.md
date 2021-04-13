@@ -65,6 +65,49 @@ To begin, install and ensure that you have the latest version of each
 
 # Dashboard
 
+## Overview
+
+This dashboard strives to help nonprofit organizations in Georgia resolve or alleviate the problem of responding to rapid changes in public sentiments that need quick attention. It aims to provide both real-time and historical insights of topics that are relevant to nonprofit services. In this way, these organizations would be able to monitor real-time changes in the needs of people in Georgia and visualize past trends in these needs. To achieve this, we incorporated different types of data visualizations to present the data in a more user-friendly way while displaying the most important information. We also embedded filter controls so that users of this dashboard may navigate more easily and change the outlook according to their interests if needed.
+
+## Intended Use
+
+In general, a user may launch the dashboard when he/she wants to:
+- Look for trending topics
+- Look for topic popularities
+- Compare popularities in Georgia and popularities in the US of different topics
+- Explore historical trends of popularities of selected topics
+- Explore how popularities of one topic differ throughout different regions in Georgia
+- Explore if there exists a relationship between the demographic data and the popularity data throughout different regions in Georgia
+
+Note: For any of the above use cases, the user should set a certain date range of interest since all charts depend on the date range.
+
+### Real-time Insights
+
+The real-time section consists of:
+(a) A table that represents the counts of inquiries for different AIRS problem needs
+(b) A bar graph that compares average popularities in Georgia and average popularities in the United States of different topics
+(c) A bubble map that presents difference in popularities of a certain topic in Georgia areas
+
+**Filter Control and Data Source:** (a), (b), and (c) are controlled by the same date range filter. (a) does not use a topic filter and is controlled by AIRS data source, while (b) and (c) use the same topic filter and are both controlled by Google Search Trends data. 
+
+**Use Case:** The user may look at (a) when he/she wants to look for the most trending needs of people in Georgia. (b) and (c) are ideal for comparisons of popularities from different geographical levels. Specifically, (b) compares popularities in Georgia to the national level, while (c) compares popularities in different regions of Georgia.
+
+### Historical Trends
+
+The historical section consists of a line graph that presents trends of different topics.
+
+**Filter Control and Data Source:** It is controlled by a date range filter and a topic filter. The data source comes from Google Search Trends data. 
+
+**Use Case:** This section is useful when the user wants to explore how popularities of different topics change over time, indicated by peaks and inclinations in lines.
+
+### Demographic Trends
+
+The demographic section consists of a bubble map that presents supplemental, demographic information in different areas of Georgia.
+
+**Filter Control and Data Source:** It is controlled by an indicator filter and a date range filter. The data source is Georgia Census Data.
+
+**Use Case:** It is recommended that the user compares the bubble map in the section with the one in the real-time section to see if there exists any relationship between topic popularities and demographic indicators in different regions of Georgia. For example, if a user finds out that Atlanta has the highest popularity for housing and the highest proportion of minorities over other regions, it may indicate that there is a positive relationship between the two. However, it is encouraged that users should always evaluate how explanatory their finding is before making a conclusion.
+
 ## Data Sources
 * Google Search Trends 
 * United Way 211 - Atlanta 
