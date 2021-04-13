@@ -27,7 +27,7 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 
 # Project Partners
 
-# Intended Use of this Project
+# Intended Use of Project
 
 If you are interested in learning about what people in the Georgia. are demanding for or are passionate about helping non-technical audiences keep track of up-to-date information on public sentiments, then this project is right for you! This repo is designed for Python users who want to build an interactive real-time data reporting dashboard on the most popular social issues in the Atlanta metropolitan area, such as housing, healthcare, and employment. 
 
