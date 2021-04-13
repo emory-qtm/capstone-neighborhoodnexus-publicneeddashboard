@@ -15,7 +15,9 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
   * [Google API Sheet](#google-api-sheet)
   * [Dashboard](#dashboard)
 - [Dashboard](#dashboard)
+  * [Overview](#overview)
   * [Intended Use of Dashboard](#intended-use-of-dashboard)
+  * [Data Sources](#data-sources)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -54,11 +56,11 @@ This data is used to reflect the monthly ranking of what people in Georgia are r
 #### 2. [Google Trends data](https://trends.google.com/trends/?geo=US):
 Because Google Trends data is comprehensive, publicly available, updated frequently, this data source is used to visualize the historical and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our *Data extraction_Google trends* file to understand our datasets better.
 
-#### 3. [Census Bureau data](https://www.airs.org/i4a/pages/index.cfm?pageid=1): 
+#### 3. [Census Bureau data](https://api.census.gov/data/2019/pep/charage.html): 
 *The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin*; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019, from Census Bureaus, is used to reflect recent demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can rely on this data source to visualize popular social issues within different ethnic groups in different counties. 
 
 ## Use of Dashboard
-Our [real-time interactive dashboard](https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886P) allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the *Dashboard* section. 
+Our [real-time interactive dashboard](https://datastudio.google.com/s/gZlYMiInYM0) allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the *Dashboard* section. 
 
 With the use of our data sources and dashboard, users will be informed on the real-time, historical, geographic, and demographic trends of 17 important topics in the nonprofit sector
 
@@ -126,8 +128,8 @@ The demographic section consists of a bubble map that presents supplemental, dem
 **Use Case:** It is recommended that the user compares the bubble map in the section with the one in the real-time section to see if there exists any relationship between topic popularities and demographic indicators in different regions of Georgia. For example, if a user finds out that Atlanta has the highest popularity for housing and the highest proportion of minorities over other regions, it may indicate that there is a positive relationship between the two. However, it is encouraged that users should always evaluate how explanatory their finding is before making a conclusion.
 
 ## Data Sources
-* Google Search Trends 
-* United Way 211 - Atlanta 
-* Census - (include specific file name)
+* [Google Search Trends data](https://trends.google.com/trends/?geo=US) 
+* United Way AIRS data - Georgia, U.S. 
+* [Bureau Census data](https://api.census.gov/data/2019/pep/charage.html)
 
 # Acknowledgements
