@@ -5,8 +5,11 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 ## Table of contents
 - [Motivation](#motivation)
 - [Project Partners](#project-partners)
-- [Intended User](#intended-user)
-- [Intended Use of this Project](#intended-use)
+- [Intended Use of Project](#intended-use)
+- 
+      - [Use Case](## Use Case)
+      - [Use of Data sources](## Use of Data sources)
+      - [Use of Dashboard](## Use of Dashboard)
 - [Installation](#installation)
 - [Setup](#setup)
 - 
@@ -27,23 +30,23 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 
 If you are interested in learning about what people in the Georgia. are demanding for or are passionate about helping non-technical audiences keep track of up-to-date information on public sentiments, then this project is right for you! This repo is designed for Python users who want to build an interactive real-time data reporting dashboard on the most popular social issues in the Atlanta metropolitan area, such as housing, healthcare, and employment. 
 
-## Use case
+## Use Case
 
 This Github repository allows users to easily extract qualitative data on socioeconomic topics and build a real-time interactive dashboard upon it. A typical user of this Github repository should be interested in using data from non-profit organizations, Census Bureau, and Google search queries, as these three data sources represent an integral image of diverse American needs. Our dashboard acts as a one-stop platform for users to access these three data sources, to visualize the popular social issues today, and to understand the rising demands in the nonprofit sector.  
 
-## Use of Data sources:
+## Use of Data sources
 
 ### 1. United Way AIRS data:
-Because our stakeholder, Neighborhood Nexus, is partnering with United Way Worldwide, a non-profit organization that has over 1,800 affiliates globally, our team obtained monthly data from AIRS (Alliance of Information and Referral Systems) that informs us on the Problem Needs and Referred and Unmet Services. This data is used to reflect the real-time requests from people in Georgia on our dashboard. 
+Because our stakeholder, [Neighborhood Nexus](https://neighborhoodnexus.org/), is partnering with United Way Worldwide, a non-profit organization that has over 1,800 affiliates globally, our team obtained monthly data from AIRS ([Alliance of Information and Referral Systems](https://www.airs.org/i4a/pages/index.cfm?pageid=1)) that informs us on the Problem Needs, Referred services, and Unmet Services. This data is used to reflect the monthly ranking of what people in Georgia are requesting for on our dashboard. Because of privacy concerns, AIRS dataset is not publicly avaiable.
 
-### 2. Google Trends data (https://trends.google.com/trends/?geo=US):
-Because Google Trends data is comprehensive, publicly available, updated frequently, our team mainly used this data source to visualize the historical and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our “Data Extraction: Google Trends” file to understand our datasets better.
+### 2. [Google Trends data](https://trends.google.com/trends/?geo=US):
+Because Google Trends data is comprehensive, publicly available, updated frequently, this data source is used to visualize the historical and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our *Data extraction_Google trends* file to understand our datasets better.
 
-### 3. Census Bureau data (https://www.airs.org/i4a/pages/index.cfm?pageid=1): 
-The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019, from Census Bureaus, was used to reflect recent demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can rely on this data source to visualize popular social issues within different ethnic groups in different counties. 
+### 3. [Census Bureau data](https://www.airs.org/i4a/pages/index.cfm?pageid=1): 
+*The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin*; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019, from Census Bureaus, is used to reflect recent demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can rely on this data source to visualize popular social issues within different ethnic groups in different counties. 
 
-## Use of Dashboard:
-Our real-time interactive dashboard (https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886) allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the “Dashboard” section. 
+## Use of Dashboard
+Our real-time interactive [dashboard](https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886P) allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the *Dashboard* section. 
 
 With the use of our data sources and dashboard, users will be informed on the real-time, historical, geographic, and demographic trends of 17 important topics in the nonprofit sector
 
