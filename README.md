@@ -1,5 +1,7 @@
 # Emory QTM Capstone: Neighborhood Nexus - Public Need Dashboard                                                                       ![Logo](/images/Logo.png)
 
+
+
 ## Table of contents
 - [Motivation](#motivation)
 - [Project Partners](#project-partners)
@@ -27,6 +29,11 @@ Therefore, as a group of students who are passionate about the applications of d
 
 
 # Project Partners
+
+We collaborated on this project with Neighborhood Nexus, a nonprofit committed to providing organizations with the tools they need to ask the right questions, use meaningful data, and make informed decisions. Neighborhood Nexus helps organizations better understand the communities and situations they collaborate with by committing to provide high-quality, easily accessible data.
+
+For this project Neighborhood Nexus laid out the guidelines, supplied United Way AIRS data, and provided feedback for our dashboard to convey current public sentiment to better inform nonprofit leaders. 
+
 
 # Intended Use of Project
 
