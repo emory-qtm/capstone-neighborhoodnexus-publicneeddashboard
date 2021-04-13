@@ -29,15 +29,18 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 
 # Intended Use of Project
 
-If you are interested in learning about what people in the Georgia. are demanding for or are passionate about helping non-technical audiences keep track of up-to-date information on public sentiments, then this project is right for you! This repo is designed for Python users who want to build an interactive real-time data reporting dashboard on the most popular social issues in the Atlanta metropolitan area, such as housing, healthcare, and employment. 
+A typical user of this Github repository should be interested in 
+- learning about what people in Georgia are demanding for 
+- helping non-technical audiences keep track of up-to-date information on public sentiments
+- analyzing data from non-profit organizations, Census Bureau, and Google search queries, as these three data sources represent an integral image of diverse American needs. 
+
+This repo is designed for Python and Google Data Studio users who want to build an interactive real-time data reporting dashboard on the most popular social issues in the Atlanta metropolitan area, such as housing, healthcare, and employment. 
 
 ## Use Case
 
 This Github repository allows users to:
 - easily extract qualitative data on social problems
 - build a real-time interactive dashboard upon extracted data. 
-
-A typical user of this Github repository should be interested in using data from non-profit organizations, Census Bureau, and Google search queries, as these three data sources represent an integral image of diverse American needs. 
 
 Our dashboard acts as a one-stop platform for users to: 
 - access three data sources, including United Way AIRS data, Google Trends data, and Census Bureau data
@@ -47,14 +50,14 @@ Our dashboard acts as a one-stop platform for users to:
 
 ## Use of Data sources
 
-### 1. United Way AIRS data:
+#### 1. United Way AIRS data:
 Because our stakeholder, [Neighborhood Nexus](https://neighborhoodnexus.org/), is partnering with United Way Worldwide, a non-profit organization that has over 1,800 affiliates globally, our team obtained monthly data from AIRS ([Alliance of Information and Referral Systems](https://www.airs.org/i4a/pages/index.cfm?pageid=1)) that informs us on the Problem Needs, Referred services, and Unmet Services. 
 This data is used to reflect the monthly ranking of what people in Georgia are requesting for on our dashboard. Because of privacy concerns, the AIRS dataset is not publicly avaiable.
 
-### 2. [Google Trends data](https://trends.google.com/trends/?geo=US):
+#### 2. [Google Trends data](https://trends.google.com/trends/?geo=US):
 Because Google Trends data is comprehensive, publicly available, updated frequently, this data source is used to visualize the historical and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our *Data extraction_Google trends* file to understand our datasets better.
 
-### 3. [Census Bureau data](https://www.airs.org/i4a/pages/index.cfm?pageid=1): 
+#### 3. [Census Bureau data](https://www.airs.org/i4a/pages/index.cfm?pageid=1): 
 *The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin*; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019, from Census Bureaus, is used to reflect recent demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can rely on this data source to visualize popular social issues within different ethnic groups in different counties. 
 
 ## Use of Dashboard
