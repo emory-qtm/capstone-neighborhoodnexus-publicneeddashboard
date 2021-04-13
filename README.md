@@ -31,7 +31,7 @@ Therefore, as a group of students who are passionate about the applications of d
 # Intended Use of Project
 
 A typical user of this Github repository should be interested in 
-- learning about what people in Georgia are demanding for 
+- learning more about what people in Georgia are searching for and understanding trending topics
 - helping non-technical audiences keep track of up-to-date information on public sentiments
 - analyzing data from non-profit organizations, Census Bureau, and Google search queries, as these three data sources represent an integral image of diverse American needs. 
 
