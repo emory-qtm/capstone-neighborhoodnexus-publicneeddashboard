@@ -1,6 +1,7 @@
-# Emory QTM Capstone: Neighborhood Nexus - Public Need Dashboard                                                        ![Logo](/images/Logo.png)
+# Emory QTM Capstone: Neighborhood Nexus - Public Need Dashboard                                                                      
+![Logo](/images/Logo.png)
 
-
+Our project aims to develop a platform that displays people’s current sentiment and needs in Georgia. Our dashboard displays current social service requests as well as trending search topics, allowing organizations to gain a better understanding of Georgia communities.
 
 ## Table of contents
 - [Motivation](#motivation)
@@ -30,7 +31,7 @@ Therefore, as a group of students who are passionate about the applications of d
 
 # Project Partners
 
-We collaborated on this project with Neighborhood Nexus, a nonprofit committed to providing organizations with the tools they need to ask the right questions, use meaningful data, and make informed decisions. Neighborhood Nexus helps organizations better understand the communities and situations they collaborate with by committing to provide high-quality, easily accessible data.
+We collaborated on this project with Neighborhood Nexus](https://neighborhoodnexus.org/), a nonprofit committed to providing organizations with the tools they need to ask the right questions, use meaningful data, and make informed decisions. Neighborhood Nexus helps organizations better understand the communities and situations they collaborate with by committing to provide high-quality, easily accessible data.
 
 For this project Neighborhood Nexus laid out the guidelines, supplied United Way AIRS data, and provided feedback for our dashboard to convey current public sentiment to better inform nonprofit leaders. 
 
@@ -64,7 +65,7 @@ Our stakeholder, [Neighborhood Nexus](https://neighborhoodnexus.org/), is partne
 This data is used to reflect the monthly ranking of what people in Georgia are requesting/searching for on our dashboard. Due to privacy concerns, the AIRS dataset is not publicly avaiable.
 
 #### 2. [Google Trends data](https://trends.google.com/trends/?geo=US):
-Google Trends data is comprehensive, open-source, publicly available, and updated frequently. Hence, this data source is used to visualize the historical, real-time and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our *GAvsUS.xlsx, GA.xlsx, denorm_historical.xlsx* file under the *dataset* directory to understand our datasets better.
+Google Trends data is comprehensive, open-source, publicly available, and updated frequently. Hence, this data source is used to visualize the historical, real-time and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our *Data extraction_Google trends* file to understand our datasets better.
 
 #### 3. [Census Bureau data](https://api.census.gov/data/2019/pep/charage.html): 
 The Census Bureau dataset- *The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019*, is used to reflect demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can use this to understand the dashboard holistically by taking into account social and demographic factors like race and population in different counties in Georgia which may affect trending topics. 
