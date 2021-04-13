@@ -160,3 +160,7 @@ The demographic section consists of a bubble map that presents supplemental, dem
 * [Bureau Census data](https://api.census.gov/data/2019/pep/charage.html)
 
 # Acknowledgements
+
+- [Neighborhood Nexus] (https://neighborhoodnexus.org/)
+- [Emory QTM Department] (http://quantitative.emory.edu/)
+- [United Way Atlanta] (https://www.unitedwayatlanta.org/)
