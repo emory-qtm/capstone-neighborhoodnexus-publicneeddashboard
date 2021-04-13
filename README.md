@@ -15,7 +15,7 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
   * [Google API Sheet](#google-api-sheet)
   * [Dashboard](#dashboard)
 - [Dashboard](#dashboard)
-  * [Intended Use of Dashboard](#intended-use)
+  * [Intended Use of Dashboard](#intended-use-of-dashboard)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -83,7 +83,7 @@ To begin, install and ensure that you have the latest version of each
 
 This dashboard strives to help nonprofit organizations in Georgia resolve or alleviate the problem of responding to rapid changes in public sentiments that need quick attention. It aims to provide both real-time and historical insights of topics that are relevant to nonprofit services. In this way, these organizations would be able to monitor real-time changes in the needs of people in Georgia and visualize past trends in these needs. To achieve this, we incorporated different types of data visualizations to present the data in a more user-friendly way while displaying the most important information. We also embedded filter controls so that users of this dashboard may navigate more easily and change the outlook according to their interests if needed.
 
-## Intended Use
+## Intended Use of Dashboard
 
 In general, a user may launch the dashboard when he/she wants to:
 - Look for trending topics
