@@ -71,13 +71,36 @@ To begin, install and ensure that you have the latest version of each
 >     - pip install pytrends
 >     - pip install gspread
 >     - pip install gtab
+>     - pip install oauth2client
 
 # Setup
 
-
 ## Google API Sheet
 
+1.    Go to [Google Developers Console](https://console.cloud.google.com/) and sign in to your Google account
+2.    Create a new project
+![img1](/images/img1.png)
+3.    Search for and Click *ENABLE* the Google Drive and the Google Sheet APIs
+![img2](/images/img2.png)
+![img3](/images/img3.png)
+4.    Create credentials for *Web Server* to access Application Data
+![img4](/images/img4.png)
+5.    Download **your own the JSON file** (e.g. projectname-id.json)
+6.    Copy the JSON file to your code directory
+      - Its file path is used for data extraction
+7.    Initialize the Google Sheet for each dataset
+      - Copy the *client_email* in JSON file and add it to *the Google Sheet Editor* for each dataset
+
 ## Dashboard 
+
+1.    Go to [Google Data Studio](https://datastudio.google.com/)
+2.    Create a new report
+![img5](/images/img5.png)
+3.    Connect your data sources by using Google Sheets Connectors
+![img6](/images/img6.png)
+4.    Add charts
+![img7](/images/img7.png)
+5.    Customize the formatting and add a title and captions
 
 # Dashboard
 
