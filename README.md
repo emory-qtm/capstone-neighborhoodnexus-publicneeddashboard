@@ -5,7 +5,7 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 ## Table of contents
 - [Motivation](#motivation)
 - [Project Partners](#project-partners)
-- [Intended Use of Project](#intended-use)
+- [Intended Use of Project](#intended-use-of-project)
 - 
       - [Use Case](#use-case)
       - [Use of Data Sources](#use-of-data-sources)
