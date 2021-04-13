@@ -8,7 +8,7 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 - [Intended Use of Project](#intended-use)
 - 
       - [Use Case](#use-case)
-      - [Use of Data sources](#use-of-data-sources)
+      - [Use of Data Sources](#use-of-data-sources)
       - [Use of Dashboard](#use-of-dashboard)
 
 - [Installation](#installation)
@@ -33,12 +33,23 @@ If you are interested in learning about what people in the Georgia. are demandin
 
 ## Use Case
 
-This Github repository allows users to easily extract qualitative data on socioeconomic topics and build a real-time interactive dashboard upon it. A typical user of this Github repository should be interested in using data from non-profit organizations, Census Bureau, and Google search queries, as these three data sources represent an integral image of diverse American needs. Our dashboard acts as a one-stop platform for users to access these three data sources, to visualize the popular social issues today, and to understand the rising demands in the nonprofit sector.  
+This Github repository allows users to:
+- easily extract qualitative data on social problems
+- build a real-time interactive dashboard upon extracted data. 
+
+A typical user of this Github repository should be interested in using data from non-profit organizations, Census Bureau, and Google search queries, as these three data sources represent an integral image of diverse American needs. 
+
+Our dashboard acts as a one-stop platform for users to: 
+- access three data sources, including United Way AIRS data, Google Trends data, and Census Bureau data
+- understand the rising demands for nonprofit services
+- visualize historically and currently trending topics in the nonprofit sector
+
 
 ## Use of Data sources
 
 ### 1. United Way AIRS data:
-Because our stakeholder, [Neighborhood Nexus](https://neighborhoodnexus.org/), is partnering with United Way Worldwide, a non-profit organization that has over 1,800 affiliates globally, our team obtained monthly data from AIRS ([Alliance of Information and Referral Systems](https://www.airs.org/i4a/pages/index.cfm?pageid=1)) that informs us on the Problem Needs, Referred services, and Unmet Services. This data is used to reflect the monthly ranking of what people in Georgia are requesting for on our dashboard. Because of privacy concerns, AIRS dataset is not publicly avaiable.
+Because our stakeholder, [Neighborhood Nexus](https://neighborhoodnexus.org/), is partnering with United Way Worldwide, a non-profit organization that has over 1,800 affiliates globally, our team obtained monthly data from AIRS ([Alliance of Information and Referral Systems](https://www.airs.org/i4a/pages/index.cfm?pageid=1)) that informs us on the Problem Needs, Referred services, and Unmet Services. 
+This data is used to reflect the monthly ranking of what people in Georgia are requesting for on our dashboard. Because of privacy concerns, the AIRS dataset is not publicly avaiable.
 
 ### 2. [Google Trends data](https://trends.google.com/trends/?geo=US):
 Because Google Trends data is comprehensive, publicly available, updated frequently, this data source is used to visualize the historical and geographical trends of 17 most popular topics, as well as comparing the topic popularity in Georgia with the average topic popularity in the U.S. Users can use our *Data extraction_Google trends* file to understand our datasets better.
