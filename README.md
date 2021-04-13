@@ -7,9 +7,10 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 - [Project Partners](#project-partners)
 - [Intended Use of Project](#intended-use)
 - 
-      - [Use Case](## Use Case)
-      - [Use of Data sources](## Use of Data sources)
-      - [Use of Dashboard](## Use of Dashboard)
+      - [Use Case](#use-case)
+      - [Use of Data sources](#use-of-data-sources)
+      - [Use of Dashboard](#use-of-dashboard)
+
 - [Installation](#installation)
 - [Setup](#setup)
 - 
@@ -46,7 +47,7 @@ Because Google Trends data is comprehensive, publicly available, updated frequen
 *The Annual Resident Population Estimates by Age, Sex, Race, and Hispanic Origin*; for the United States, States, and Puerto Rico: April 1, 2010 to July 1, 2019, from Census Bureaus, is used to reflect recent demographic trends on race, population, and geographical locations in the Atlanta Metropolitan area. Users can rely on this data source to visualize popular social issues within different ethnic groups in different counties. 
 
 ## Use of Dashboard
-Our real-time interactive [dashboard](https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886P) allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the *Dashboard* section. 
+Our [real-time interactive dashboard](https://datastudio.google.com/reporting/6ac7cce1-b42c-412f-ab3e-03f1a1995886P) allows both technical and non-technical users to easily navigate and explore rising public sentiments on a variety of social topics today. More details can be found in the *Dashboard* section. 
 
 With the use of our data sources and dashboard, users will be informed on the real-time, historical, geographic, and demographic trends of 17 important topics in the nonprofit sector
 
