@@ -23,6 +23,8 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 
 # Motivation
 
+The main motivation behind this project is to help non-profit organizations in Georgia quickly respond to public sentiments. Many people need assistance from organizations that can help them improve their mental state and relieve stress. The Covid-19 pandemic has cut into nonprofits’ resources while increasing and changing the needs of Americans. This has led to  shifting priorities and demand in the nonprofit sector. There is an immediate demand for up-to-date information on public sentiment and areas of need to allow nonprofits to rapidly respond to changes and leverage their resources in a more effective way. So far, there has been a gap between what nonprofits do and what people really need. That is, without access to up-to-date information on public sentiment and areas of need, it is hard for nonprofits to deliver optimal services based on people’s true needs.
+
 
 # Project Partners
 
