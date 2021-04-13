@@ -84,8 +84,11 @@ Note: For any of the above use cases, the user should set a certain date range o
 ### Real-time Insights
 
 The real-time section consists of:
+
 (a) A table that represents the counts of inquiries for different AIRS problem needs
+
 (b) A bar graph that compares average popularities in Georgia and average popularities in the United States of different topics
+
 (c) A bubble map that presents difference in popularities of a certain topic in Georgia areas
 
 **Filter Control and Data Source:** (a), (b), and (c) are controlled by the same date range filter. (a) does not use a topic filter and is controlled by AIRS data source, while (b) and (c) use the same topic filter and are both controlled by Google Search Trends data. 
