@@ -6,19 +6,16 @@ Covid-19 is having a considerable impact on the wellbeing of Americans and chang
 - [Motivation](#motivation)
 - [Project Partners](#project-partners)
 - [Intended Use of Project](#intended-use-of-project)
-
-      * [Use Case](#use-case)
-      * [Use of Data Sources](#use-of-data-sources)
-      * [Use of Dashboard](#use-of-dashboard)
+  * [Use Case](#use-case)
+  * [Use of Data Sources](#use-of-data-sources)
+  * [Use of Dashboard](#use-of-dashboard)
 
 - [Installation](#installation)
 - [Setup](#setup)
-
-      * [Google API Sheet](#google-api-sheet)
-      * [Dashboard](#dashboard)
+  * [Google API Sheet](#google-api-sheet)
+  * [Dashboard](#dashboard)
 - [Dashboard](#dashboard)
-
-      * [Intended Use of Dashboard](#intended-use)
+  * [Intended Use of Dashboard](#intended-use)
 - [Acknowledgements](#acknowledgements)
 
 
