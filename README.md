@@ -78,11 +78,25 @@ Through the use of our data sources and dashboard, users will be informed on the
 
 # Installation 
 
-To begin, install and ensure that you have the latest version of each:
->     - pip install pytrends
->     - pip install gspread
->     - pip install gtab
->     - pip install oauth2client
+To begin, install and ensure that you have the latest version of *pytrends, gtab, gspread, oauth2client*.
+
+Unix/macOS
+>     - python3 -m pip install pytrends
+>     - python3 -m pip install gspread
+>     - python3 -m pip install gtab
+>     - python3 -m pip install oauth2client
+
+Windows
+>     - py -m pip install pytrends
+>     - py -m pip install gspread
+>     - py -m pip install gtab
+>     - py -m pip install oauth2client
+
+Jupyter Notebook
+>     - !pip install pytrends
+>     - !pip install gspread
+>     - !pip install gtab
+>     - !pip install oauth2client
 
 # Setup
 
