@@ -1,7 +1,7 @@
 # Emory QTM Capstone: Neighborhood Nexus - Public Need Dashboard                                                                      
 ![Logo](/images/Logo.png)
 
-Our project aims to develop a platform that displays people’s current sentiment and needs in Georgia. Our dashboard displays current social service requests as well as trending search topics, allowing organizations to gain a better understanding of Georgia communities.
+Our project aims to develop a dashboard that displays current sentiment and social needs of people in Georgia. This dashboard is a central hub that presents social service requests and trending search topics from multiple sources. We hope to provide non-profit organizations a platform where they can access up-to-date information about people’s changing needs.
 
 ## Table of contents
 - [Motivation](#motivation)
@@ -31,7 +31,7 @@ Therefore, as a group of students who are passionate about the applications of d
 
 # Project Partners
 
-We collaborated on this project with Neighborhood Nexus(https://neighborhoodnexus.org/), a nonprofit committed to providing organizations with the tools they need to ask the right questions, use meaningful data, and make informed decisions. Neighborhood Nexus helps organizations better understand the communities and situations they collaborate with by committing to provide high-quality, easily accessible data.
+We collaborated on this project with [Neighborhood Nexus](https://neighborhoodnexus.org/), a nonprofit committed to providing organizations with the tools they need to ask the right questions, use meaningful data, and make informed decisions. Neighborhood Nexus helps organizations better understand the communities and situations they collaborate with by committing to provide high-quality, easily accessible data.
 
 For this project Neighborhood Nexus laid out the guidelines, supplied United Way AIRS data, and provided feedback for our dashboard to convey current public sentiment to better inform nonprofit leaders. 
 
