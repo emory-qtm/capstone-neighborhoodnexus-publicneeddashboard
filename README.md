@@ -31,7 +31,7 @@ Therefore, as a group of students who are passionate about the applications of d
 
 # Project Partners
 
-We collaborated on this project with Neighborhood Nexus](https://neighborhoodnexus.org/), a nonprofit committed to providing organizations with the tools they need to ask the right questions, use meaningful data, and make informed decisions. Neighborhood Nexus helps organizations better understand the communities and situations they collaborate with by committing to provide high-quality, easily accessible data.
+We collaborated on this project with Neighborhood Nexus(https://neighborhoodnexus.org/), a nonprofit committed to providing organizations with the tools they need to ask the right questions, use meaningful data, and make informed decisions. Neighborhood Nexus helps organizations better understand the communities and situations they collaborate with by committing to provide high-quality, easily accessible data.
 
 For this project Neighborhood Nexus laid out the guidelines, supplied United Way AIRS data, and provided feedback for our dashboard to convey current public sentiment to better inform nonprofit leaders. 
 
