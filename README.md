@@ -78,7 +78,7 @@ Through the use of our data sources and dashboard, users will be informed on the
 
 # Installation 
 
-To begin, install and ensure that you have the latest version of *pytrends, gtab, gspread, oauth2client*.
+To begin, install and ensure that you have the latest version of *pytrends, gtab, gspread, oauth2client*. This project requires Python >= 3.7.
 
 Unix/macOS
 >     - python3 -m pip install pytrends
